@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning HTML CSS JS
 - 💞️ I’m looking to collaborate on learning this things together
-- 📫 How to reach me @shervydshervyd
+- 📫 @shervydshervyd
 
 <!---
 sherwood-a/sherwood-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
